@@ -7,6 +7,7 @@ String b;
 void meth()
 {
 	System.out.println("a= "+a+" b= "+b);
+	System.out.println("git test");
 	}
 }
 
